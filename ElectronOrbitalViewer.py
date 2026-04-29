@@ -337,8 +337,6 @@ QComboBox QAbstractItemView {{
 QStackedWidget {{ background-color: #000000; }}
 '''
 
-# DARK =
-
 # ── slide transition ──────────────────────────────────────────────────────────
 def slide_transition(stack, new_widget):
     current = stack.currentWidget()
