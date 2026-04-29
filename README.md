@@ -10,6 +10,6 @@ Note: if it doesn't run, you might have to disable smart app control. This exe i
 
 
 How to run for devs (or people who want to check my code):
-1. Clone this repo, or download. (`git clone https://github.com/bitmaker64/electronOrbitalViewer.git`)
+1. Clone this repo, or download. (`git clone https://github.com/bitmaker64/ElectonOrbitalViewer.git`)
 2. Install required libraries (`pip install -r requirements.txt`)
 3. Run the script (`main.py`)
